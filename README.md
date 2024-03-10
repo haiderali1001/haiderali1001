@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haiderali1001" alt="haiderali1001" /></a> </p>
 
-- 🔭 I’m currently working on **Project Synto**
+- 🔭 I’m currently working on React
 
 - 🌱 I’m currently learning **MERN stack**
 
 - 💬 Ask me about **cpp, dsa**
 
 - 📫 How to reach me **haiderali.1001haider@gmail.com**
-
-- ⚡ Fun fact **2+2=2*2**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
